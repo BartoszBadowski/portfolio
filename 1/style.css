@@ -1,0 +1,88 @@
+body {
+    background-color: #800000;
+}
+.menu, li {
+    font-size: 36px;
+    display: inline;
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+    color: #ffe6e6;
+    font-family: Helvetica;
+    word-spacing: 20px;
+    position:relative;
+    top: 40px;
+}
+.logo {
+    position: absolute;
+    top: 0px;
+    right: 25px;
+}
+.logo2 {
+    position: absolute;
+    top: 0px;
+    left: 25px;
+}
+.menu, li:hover {
+    font-size: 40px;
+    font-weight: bold;
+}
+.menu, li:focus {
+    color: black;
+    background-color: white;
+}
+.kotki {
+    position: absolute;
+    top: 250px;
+    left: 50px;
+}
+h1 {
+    position: absolute;
+    top: 220px;
+    left: 630px;
+    color: rgb(255, 0, 0);
+    font-family: "Times New Roman";
+    border: solid;
+    border-color: pink;
+    background-color: pink;
+}
+p {
+    position: absolute;
+    top: 300px;
+    left: 200px;
+    right: 200px;
+    font-size: 22px;
+    text-align: center;
+    background-color: pink;
+    color: red;
+    font-family: Georgia;
+}
+.kitty1 {
+    position: absolute;
+    width: 50%;
+    height: 50%; 
+    top: 380px;
+    left: 560px;
+}
+.kitty {
+    width: 30%;
+    height: 30%;
+}
+.pieski {
+    position: absolute;
+    top: 250px;
+    left: 50px;
+}
+.pieski1 {
+    height: 30%;
+    width: 30%;
+}
+.swinki {
+    margin-top: 0;
+    height: 32%;
+    width: 32%;
+}
+.swinki1 {
+    width: 32%;
+    height: 32%;
+}
